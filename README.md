@@ -1,2 +1,3 @@
-# hello-world
-이 리포지토리는 흐름을 연습하기 위한 리포지토리
+# About Me
+
+My name is LeeSoobin
